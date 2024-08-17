@@ -3,6 +3,8 @@
 Add `int max_of_four(int a, int b, int c, int d)` here.
 */
 
+int max_of_four();
+
 int main() {int a, b, c, d;
 	scanf("%d %d %d %d", &a, &b, &c, &d);
 	int ans;
@@ -22,4 +24,6 @@ int max_of_four (int a, int b, int c, int d){
 	}else if (d>a && d>b && d>c){
 		return d;
 	}
+	return 0;
 }
+

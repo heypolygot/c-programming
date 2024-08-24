@@ -34,7 +34,7 @@ float calculator(){
 	printf("Enter a Numbers:");
 	scanf("%f", &a);
 	while (true){
-		printf("Enter a number:");
+		printf("Enter another number:");
 		scanf("%f", &b);
 
 		int n;

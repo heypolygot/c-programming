@@ -3,6 +3,8 @@
 Add `int max_of_four(int a, int b, int c, int d)` here.
 */
 
+int maximum_Of_Four(int a, int b, int c, int d);
+
 void main() {
 	int a, b, c, d;
 	printf("Enter 4 numbers :");

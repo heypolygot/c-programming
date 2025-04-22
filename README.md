@@ -17,12 +17,14 @@ Navigate to the project directory and run:
 
 ```bash
 gcc -o output src/main.c
+```
 
 
 ## ▶️ How to Run
 
 ```bash
 ./output
+```
 
 
 ## 🙌 Contributing
